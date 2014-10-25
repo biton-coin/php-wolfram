@@ -1,4 +1,4 @@
-PHP wolfram
+PHP Wolfram
 ===========
 
 The world's first Wolfram Alpha PHP scraper.
